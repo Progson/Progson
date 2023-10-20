@@ -5,9 +5,9 @@
 
 🏫I am a cybersecurity student who is passionate about computer science.
 
-👨🏼‍💻 I love software development, it fulfills me to create something from scratch. My affinity for mathematics helps me in this endeavor. Finding the neatst mathematical solution to a problem is like fitting the final puzzle piece into a 1000-piece jigsaw.
+👨🏼‍💻 I lovI have a deep passion for software development, as there's immense fulfillment in creating something from the ground up. My affinity for mathematics helps me in this endeavor. Finding the neatst mathematical solution to a problem is like fitting the final puzzle piece into a 1000-piece jigsaw.
 
-🦾I am also passionate about electronics and creating devices that can serve a purpose, and then programming them with Arduino.
+🦾I am also passionate about electronics, creating devices that can serve a purpose, and then programming them with Arduino.
 
 🤓I have been programming and working on projects for years, and I am eager to start my ambitious professional career.
 
