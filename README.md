@@ -1,5 +1,5 @@
-### Hi there 👋
-# 🏄‍♂️ Dominik Progson Szczepek
+### Hello there 👋
+# 🤗 Dominik Progson Szczepek
 
 **`IT enthusiast(Developer/Data analyst/Embeded system developer`**
 
@@ -29,7 +29,7 @@ I have been programming and working on projects for years, and I am eager to sta
 
 
 <details>
- <summary><h3>My Journey to Excellence</h3></summary>
+ <summary><h3>✨My Journey to Excellence✨h3></summary>
 My programming journey started at the age of 8 when I received my first computer as a gift from my grandfather on my First Holy Communion. I was instantly captivated by the possibilities it held. 
 Over the years, my initial computer became outdated, but my passion for technology only grew stronger. In middle school, my curiosity turned into an unstoppable passion for programming.
 I had a straightforward approach to learning. An idea would spark, and I would dive in with little knowledge, learning from the ground up. I never settled for copying code; I aimed to understand every line.
