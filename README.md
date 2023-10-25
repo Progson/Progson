@@ -27,7 +27,7 @@
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-![image](https://github.com/Progson/Progson/assets/47703073/a5847fef-a82e-4d01-bbc7-993c418ad597)
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/processing/processing-docs/master/favicon.ico" />
 
 <br />
 
